@@ -39,7 +39,7 @@
 						  echo '</td>';
 
 						  echo '<td>';
-						  	echo '<a href="detal.php?id='.$user["id"].'">Detalhar repositórios</a>';
+						  	echo '<a href="detalha.php?id='.$user["id"].'">Detalhar repositórios</a>';
 						  echo '</td>';
 
 						  echo '<td>';
